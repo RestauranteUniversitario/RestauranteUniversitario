@@ -1,6 +1,6 @@
 <h1>Restaurante Universitário CEFET-MG</h1>
 
-👩🏻‍🎓 | Projeto de Iniciação Científica
+👩🏻‍🎓 | Projeto de Iniciação Científica - BICJr
 
 💻 | Desenvolvimento de uma plataforma web
 
