@@ -32,7 +32,7 @@
 2. Ele entra na aba de cardápio e dá uma olhadinha no menu da semana 😜
 3. Ele agenda os almoços/ jantas que irá realizar no restaurante
 
-<b>Do outro lado...</b>
+   <b>Do outro lado...</b>
 
 1. O adiministrador entra no site com sua conta
 2. Dá uma olhada na quantidade de alunos agendados 👀
