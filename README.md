@@ -1,4 +1,4 @@
-<h1Restaurante Universitário CEFET-MG</h1>
+<h1>Restaurante Universitário CEFET-MG</h1>
 
 👩🏻‍🎓 | Projeto de Iniciação Científica
 
